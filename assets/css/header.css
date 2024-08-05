@@ -1,0 +1,23 @@
+.header {
+    align-items: center;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+}
+
+@media screen and (min-width: 0) {
+    .header {
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .header {
+        justify-content: space-between;
+    }
+}
