@@ -12,6 +12,11 @@ Landing page about fruits
 - BEM
 - Atomic Design
 
+## Main concepts practiced
+
+- BEM
+- Atomic Design
+
 ## References
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
